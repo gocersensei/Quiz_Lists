@@ -1,5 +1,7 @@
 # Quiz_Lists
 Coursera Google Crash Course on Python Week 4 Quiz:Lists
+
+
 1.
 Question 1
 Given a list of filenames, we want to rename all the files with extension hpp to the extension h. To do this, we would like to generate a new list called newfilenames, consisting of the new filenames. Fill in the blanks in the code using any of the methods you’ve learned thus far, like a for loop or a list comprehension.
